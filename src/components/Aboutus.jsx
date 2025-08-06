@@ -6,7 +6,8 @@ const AboutUs = () => {
   return (
     <div className="about-container">
       <h2>About Our Electronic Stores</h2>
-      <p> Welcome to our Application
+      Welcome to our Application
+      <p> 
         Welcome to our E-Commerce platform, your one-stop shop for the latest and greatest in electronics!
         We specialize in high-quality products, including computers, mobiles, laptops, and accessories.
       </p>
